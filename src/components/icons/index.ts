@@ -1,0 +1,12 @@
+export { default as AiAgentIntegrationIcon } from "./AiAgentIntegrationIcon";
+export { default as AiPoweredAppDevelopment } from "./AiPoweredAppDevelopment";
+export { default as AimlStrategyConsulting2 } from "./AimlStrategyConsulting2";
+export { default as AimlStrategyConsulting } from "./AimlStrategyConsulting";
+export { default as DataEngineering2 } from "./DataEngineering2";
+export { default as DeploymentAndIntegration } from "./DeploymentAndIntegration";
+export { default as GenerativeModels } from "./GenerativeModels";
+export { default as MachineLearningIcon } from "./MachineLearningIcon";
+export { default as MachineLearning } from "./MachineLearning";
+export { default as RegulatoryCompliance } from "./RegulatoryCompliance";
+export { default as TestingAndQualityAssurance } from "./TestingAndQualityAssurance";
+export { default as AiCoPilot } from "./AiCoPilot";
